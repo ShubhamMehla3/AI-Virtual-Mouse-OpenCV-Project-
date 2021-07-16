@@ -1,7 +1,7 @@
 # AI-Virtual-Mouse-OpenCV-Project-
 
 # Touch-Less-Mouse-Cursor
-I Implemented Airmouse by analysis of hands and fingers movement using Computer Vision, Opencv, hand and finger recognization.<br>
+I Implemented Touch-less mouse cursor by analysis of hands and fingers movement using Computer Vision, Opencv, hand and finger recognization.<br>
 
 # Touch Less Mouse Controller
 Using Python and OpenCV with the real-time camera, created an AI-based system to control the mouse pointer. To control the mouse cursor, the location of the fingertip is transferred to RGB images.<br>
